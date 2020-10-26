@@ -1,0 +1,9 @@
+1、启动 register
+	E：
+	cd 目标文件夹
+	java -jar 文件名
+2、启动 nginx
+	E:
+	cd 目标文件夹
+	start nginx
+	nginx -s stop
